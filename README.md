@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="[https://images.unsplash.com/photo-1703248187251-c897f32fe4ec?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8wfknfdM3x8cGFuZGElMjBiZWFyfGVufDB8fDB8fHww](https://images.unsplash.com/photo-1703248187251-c897f32fe4ec?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGFuZGElMjBiZWFyfGVufDB8fDB8fHww)
-" alt="Typing SVG" /> fweebiefr
+" alt="Typing SVG" /> 
 </p>
 
 <p align="center">
