@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Navita Patidar
 
 <p align="center">
-  <img src="" alt="Hello!" /> 
+  " alt="Hello!" /> 
 </p>
 
 <p align="center">
