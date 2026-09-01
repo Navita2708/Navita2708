@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Navita Patidar
 
 <p align="center">
-  <img src="xyz" alt="Typing SVG" /> 
+  <img src="xyz.ppt" alt="Typing SVG" /> 
 </p>
 
 <p align="center">
