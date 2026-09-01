@@ -30,7 +30,7 @@ I enjoy learning programming, solving logical problems, and understanding the ma
 ## 💻 Languages & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,git,github,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=c,git,github,vscode&perline=5" />
 </p>
 
 ---
