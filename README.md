@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Navita Patidar
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1703248187251-c897f32fe4ec?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGFuZGElMjBiZWFyfGVufDB8fDB8fHww"alt ="Hello!" /> 
+<alt ="Hello!" /> 
 </p>
 
 <p align="center">
