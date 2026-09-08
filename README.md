@@ -148,7 +148,7 @@ I'm particularly interested in:
 
 <p align="center">
 
-**Connect with me:** [LinkedIn](https://www.linkedin.com/in/navita-patidar-3b4852432/) • [LeetCode](https://leetcode.com/u/Navita2708/) • [GeeksforGeeks](https://www.geeksforgeeks.org/profile/navita2708) • [HackerRank](https://www.hackerrank.com/profile/navitaiips)
+ [LinkedIn](https://www.linkedin.com/in/navita-patidar-3b4852432/) • [LeetCode](https://leetcode.com/u/Navita2708/) • [GeeksforGeeks](https://www.geeksforgeeks.org/profile/navita2708) • [HackerRank](https://www.hackerrank.com/profile/navitaiips)
 
 ### ⭐ Thanks for visiting my profile!
 
