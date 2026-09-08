@@ -144,9 +144,7 @@ I'm particularly interested in:
 
 ---
 
-## 🤝 Let's Connect
-
-## 🔗 My Profiles
+## 🔗Reach Me At...
 
 <p align="center">
 
