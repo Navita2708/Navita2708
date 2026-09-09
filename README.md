@@ -99,27 +99,23 @@ I'm particularly interested in:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Navita2708&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navita2708&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Navita2708&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
----
 
 ## 📂 What You'll Find Here
 
